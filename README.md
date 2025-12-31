@@ -2,7 +2,7 @@
 
 Scaffold the FlowFactory workflow system into any project.
 
-[![npm version](https://badge.fury.io/js/flowfactory.svg)](https://www.npmjs.com/package/flowfactory)
+[![npm version](https://img.shields.io/npm/v/flowfactory.svg)](https://www.npmjs.com/package/flowfactory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation

@@ -2,7 +2,7 @@ import { defineCommand, runMain } from 'citty';
 import { copy, pathExists, ensureDir } from 'fs-extra';
 import { resolve, join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { readdir, stat } from 'fs/promises';
+import { stat } from 'fs/promises';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 

@@ -71,6 +71,20 @@ Options:
 
 MIT
 
+## Credits
+
+FlowFactory is built upon the excellent foundation of [Flow](https://github.com/gmickel/gmickel-claude-marketplace) by [Gordon Mickel](https://github.com/gmickel), originally created as a Claude Code plugin.
+
+This project adapts and extends that work for the Factory.ai Droid ecosystem, bringing the same disciplined workflow approach to a broader range of AI coding assistants.
+
+We gratefully acknowledge Gordon's forward work in creating structured workflows for AI agents.
+
 ## Author
 
-[GitMaxd](https://github.com/Gitmaxd)
+[GitMaxd](https://github.com/Gitmaxd) · [@gitmaxd](https://x.com/gitmaxd)
+
+---
+
+<p align="center">
+  <a href="https://flowfactory.dev">flowfactory.dev</a>
+</p>

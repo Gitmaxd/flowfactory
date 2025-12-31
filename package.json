@@ -1,6 +1,6 @@
 {
   "name": "flowfactory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold FlowFactory workflow system into your project",
   "type": "module",
   "main": "dist/cli.js",
@@ -25,7 +25,10 @@
     "workflow",
     "ai-agents"
   ],
-  "author": "GitMaxd",
+  "author": {
+    "name": "GitMaxd",
+    "url": "https://github.com/Gitmaxd"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

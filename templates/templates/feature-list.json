@@ -1,0 +1,32 @@
+{
+  "planId": "",
+  "created": "",
+  "updated": "",
+  "status": "planning",
+  "features": [
+    {
+      "id": "feat-001",
+      "description": "",
+      "status": "pending",
+      "acceptance": [
+        "Acceptance criterion 1",
+        "Acceptance criterion 2"
+      ],
+      "tasks": [
+        {
+          "id": "task-001",
+          "description": "",
+          "status": "pending",
+          "commit": null
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "complexity": "standard",
+    "estimatedHours": null,
+    "actualHours": null,
+    "branch": null,
+    "prUrl": null
+  }
+}
